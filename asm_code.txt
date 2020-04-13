@@ -1,0 +1,15 @@
+CLA  <trying comments feature
+INP a
+INP V
+LAC b
+SUB V 
+BRN L1
+BRZ L1
+CLA
+BRZ L2
+L1: DSP V
+CLA
+BRZ L2
+L2: STP
+CLA 
+STP  <finally ending the assembly code
