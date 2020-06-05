@@ -3,4 +3,6 @@
  
  It can be runned as a simple python program.
  
-## all the details can be found in the documentation file
+ run code.py as a python program to run the assembler.
+ 
+## Other details can be found in the documentation file
