@@ -1,4 +1,7 @@
 # Assembler
+
+An Assembler is used to interpret high level language code into assembly code.
+
  A very basic implementation of assembler in python
  
  It can be runned as a simple python program.
