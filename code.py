@@ -1,3 +1,4 @@
+#code
 ac=[]
 with open('asm_code.txt') as file:
     for line in file.readlines():
